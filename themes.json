@@ -3,7 +3,9 @@
         "https://imgur.com/rNWcMGT.jpeg",
         "https://imgur.com/KXDxmzi.jpeg",
         "https://imgur.com/QE3XQnY.jpeg",
-        "https://imgur.com/j8KzJj4.jpeg"
+        "https://imgur.com/j8KzJj4.jpeg",
+        "https://imgur.com/ElsNZos.mp4",
+        "https://imgur.com/fUPF81N.mp4"
     ],
     "JINX": [
         "https://i.pinimg.com/736x/65/e8/3e/65e83ebca93a1ae2307a95d887afe48c.jpg",
@@ -18,5 +20,28 @@
         "https://i.pinimg.com/736x/9c/b3/73/9cb3732adf895ca67463c3a426e8e9e5.jpg",
         "https://i.pinimg.com/736x/6b/41/e8/6b41e83a43fb7f3e31dec3cb90553736.jpg",
         "https://i.pinimg.com/736x/5a/03/f8/5a03f83eeeab05210db52331d971cb51.jpg"
+    ],
+    "MARINE_KITAGAWA": [
+        "https://i.pinimg.com/736x/ca/d7/0d/cad70d02f319ec6a53aac5e21bf41276.jpg",
+        "https://i.pinimg.com/736x/87/c5/ae/87c5ae2fd8b4c87648609e6b28228abb.jpg",
+        "https://i.pinimg.com/736x/03/30/23/033023186931d02f1811affc4dde42ab.jpg",
+        "https://i.pinimg.com/originals/76/76/8e/76768ee8f453259fa619bafb74195305.jpg",
+        "https://i.pinimg.com/736x/ab/f6/4d/abf64de44432627932bbf1509712e7cb.jpg",
+        "https://i.pinimg.com/736x/cf/d8/27/cfd827a5d548b7f48501683d6dc14306.jpg"
+    ],
+    "SHOTO_TODOROKI": [
+        "https://i.pinimg.com/736x/db/d2/da/dbd2dab476c43d337b8f637fbe1bc762.jpg",
+        "https://i.pinimg.com/736x/5d/72/cf/5d72cfc2a33f5be04eb8e1a3e013d5ba.jpg",
+        "https://i.pinimg.com/736x/db/d2/da/dbd2dab476c43d337b8f637fbe1bc762.jpg",
+        "https://i.pinimg.com/564x/81/33/6e/81336e5175decf5ca96fa3d486a366a0.jpg",
+        "https://i.pinimg.com/736x/fa/42/d0/fa42d04e52eefdefcacd63a290bba8d0.jpg"
+    ],
+    "SUKUNA": [
+        "https://i.pinimg.com/originals/ff/8a/dd/ff8add3c0cf3ecc5f6e2f88f9c831dfd.jpg",
+        "https://i.pinimg.com/736x/2e/f3/e0/2ef3e02c664ea1eaa6c54316d413f788.jpg",
+        "https://pbs.twimg.com/media/GJ2jgV0XoAAQHBn.jpg",
+        "https://i.pinimg.com/1200x/b9/1a/42/b91a4223cd8439b1a39543916707ee3e.jpg",
+        "https://i.pinimg.com/736x/b6/94/0d/b6940db282c8fc9d13dc707ec6b8ca27.jpg",
+        "https://i.pinimg.com/736x/59/68/f3/5968f3b1eba41cbec6910b1bf0d0f493.jpg"
     ]
 }
